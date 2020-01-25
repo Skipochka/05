@@ -368,13 +368,13 @@ body {
 }
 
 .action .icon-f {
-  background-image: url(../Pictures/Icons4/1.png);
+  background-image: url(../Pictures/Butt-icon/1.png);
 }
 .action .icon-s {
-  background-image: url(../Pictures/Icons4/2.png);
+  background-image: url(../Pictures/Butt-icon/2.png);
 }
 .action .icon-t {
-  background-image: url(../Pictures/Icons4/3.png);
+  background-image: url(../Pictures/Butt-icon/3.png);
 }
 .last-butt {
   all: unset;
@@ -382,7 +382,7 @@ body {
   height: 50px;
   background-color: #323232;
   border: 1px solid #ffffff;
-  background-image: url(../Pictures/Icons4/4.png);
+  background-image: url(../Pictures/Butt-icon/4.png);
   background-repeat: no-repeat;
   background-position: 20px 10px;
   font-size: 14px;
@@ -400,11 +400,9 @@ body {
   position: relative;
   border-radius: 10px;
 }
-
 .card .overlay {
   position: relative;
 }
-
 .card .overlay::before {
   display: none;
   position: absolute;
@@ -421,7 +419,6 @@ body {
 .card:hover .menu-icon {
   display: block;
 }
-
 .menu-icon {
   position: absolute;
   top: 50%;
@@ -503,9 +500,7 @@ body {
   width: 136px;
   height: 3px;
   background-color: var(--hover-color);
-
   position: absolute;
-
   left: 0;
   bottom: 15px;
 }
@@ -534,7 +529,6 @@ body {
   margin-left: auto;
   margin-right: auto;
 }
-
 .last-title {
   padding-top: 80px;
   padding-bottom: 60px;
@@ -567,7 +561,6 @@ body {
   font-weight: 300;
   text-align: center;
 }
-
 .email-input {
   height: 60px;
   width: 440px;
